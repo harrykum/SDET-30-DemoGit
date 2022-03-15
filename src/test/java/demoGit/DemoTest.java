@@ -2,10 +2,10 @@ package demoGit;
 
 import org.testng.annotations.Test;
 
-public class Demo {
+public class DemoTest {
 
 	@Test
-	public void demo()
+	public void demoTest()
 	{
 		System.out.println("user1 first commit");
 	}
